@@ -3,7 +3,7 @@ package com.lyp.demo.factory.simpleFactory;
 import com.lyp.demo.factory.Product;
 
 /**
- * <p>@filename Test</p>
+ * <p>@filename TestProduct</p>
  * <p>
  * <p>@description TODO</p>
  *
